@@ -40,7 +40,7 @@
                     value="<?= htmlspecialchars($_POST["email"] ?? "") ?>" >
                     <!-- psw -->
                     <div class="mb-10">Inserisci la password</div>
-                    <input placeholder="Scrivila qui" type="text">
+                    <input placeholder="Scrivila qui" type="password">
                     <!-- login -->
                     <!-- <input type="submit">ok -->
                     <a href="PersonalPage.php">
