@@ -1,0 +1,155 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: #FFFFFF;
+    border: 1px solid #9DBDF6;
+    border-radius: 15px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    -webkit-box-shadow: 0px 11px 12px -1px #9DBDF6;
+    -moz-box-shadow: 0px 11px 12px -1px #9DBDF6;
+    -o-box-shadow: 0px 11px 12px -1px #9DBDF6;
+    box-shadow: 0px 11px 12px -1px #9DBDF6;
+}
+
+body {
+    background-color: #D9E5F3;
+}
+
+img {
+    padding: 40px;
+}
+
+h1 {
+    color: #2C5587;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    outline:none;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+    margin: 20px;
+}
+
+.button {
+    background-color: #0057FF;
+    color: white;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.login-form {
+    border: 1px solid #134077;
+    width: 600px;
+    height: 320px;
+    border-radius: 10px;
+    background-color: white;
+} 
+
+.signin-form {
+    border: 1px solid #134077;
+    width: 600px;
+    height: 470px;
+    border-radius: 10px;
+    background-color: white;
+} 
+
+.form {
+    margin: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.card {
+    border: 1px solid #134077;
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.vec1 {
+    position: absolute;
+    width: 1983px;
+    height: 341px;
+    left: -37px;
+    top: 920px;
+}
+
+.vec4 {
+    position: absolute;
+    width: 2100px;
+    height: 623px;
+    left: -77.78px;
+    top: 574.03px;
+    transform: rotate(3.29deg);
+}
+
+.vec5 {
+    position: absolute;
+    width: 2961px;
+    height: 226px;
+    left: 2459px;
+    top: 704px;
+    background: #B8CCE4;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.ell12 {
+    position: absolute;
+    width: 240px;
+    height: 215px;
+    left: 1690px;
+    top: 355px;
+}
+
+.ell13 {
+    position: absolute;
+    width: 358px;
+    height: 358px;
+    left: -115px;
+    top: 318px;
+}
+
+
+
+
+
+
+
+
+
+
+
