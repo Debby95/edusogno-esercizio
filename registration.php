@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST'){
 </head>
 
 <body>
-    <h1>Hai già un account?</h1>
+    <h1>Registrati</h1>
         <div class="signin-form">
             <div class="form">
                 <form action="registration.php" method="post">
@@ -51,14 +51,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST'){
                     <input placeholder="Scrivila qui" type="password" id="password" name="password" required value="">
                     <!-- signin -->
                     <input class="button mb-30 text-center" type="submit" value="registrati">
-                </form>
-                    <a href="PersonalPage.php" type="submit">
-                        <div class="button mb-30 text-center">REGISTRATI</div>
-                    </a> 
-                    
                     <div class="text-center">Hai un account?  -->
                         <a href="login.php">Accedi</a>
-                    </div> 
+                    </div>
+                </form>
+                     
+                    
+                     
                 
             </div>
         </div>

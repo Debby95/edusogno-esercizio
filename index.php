@@ -12,6 +12,7 @@
 
 <body>
 <?php include 'TheHeader.php';?>
+<a href="logout.php">Logout</a>
         <main>
             <div>
                 <!-- <img class="vec1" src="img/Vector1.svg" alt="">
@@ -24,6 +25,8 @@
             <?php
                 require_once "login.php";
             ?>
+
+            
         </main>
 </body>
 
